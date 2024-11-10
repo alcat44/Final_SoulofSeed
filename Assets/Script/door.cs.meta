@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3360760f9ec38cc4cac057f9ef307858
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - intText: {instanceID: 0}
+  - doorAnim: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - openSound: {fileID: 8300000, guid: 711c3d7e4babd334f983163cd6a9b1a6, type: 3}
+  - closeSound: {fileID: 8300000, guid: 711c3d7e4babd334f983163cd6a9b1a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
